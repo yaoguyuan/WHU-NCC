@@ -1,4 +1,4 @@
-# WHU-NCC
+# WHU-NCC-pwn
 For learning purposes only.
 
 Each exp.py contains detailed comments, which may greatly help you.
